@@ -1,0 +1,9 @@
+password =Chifundo2018
+admin=mphaya;
+server=nacit
+
+
+dbname= nacit
+servername= webenterprise
+
+drop table staff;
